@@ -5,6 +5,6 @@ website link : https://qatester1320.github.io/Automation-testing-Demo-Wesbite-Wi
 
 If you want to manually type username and password in admin panel,
 
-  username : admin &
+  username : admin 
   
   password : password123
