@@ -8,3 +8,5 @@ If you want to manually type username and password in admin panel,
   username : admin 
   
   password : password123
+
+![Image](https://github.com/user-attachments/assets/c16289d3-3dc8-4ea4-ba00-a1188407aea0)
